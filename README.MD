@@ -103,8 +103,9 @@ Create get_data
 pip  install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --upgrade pandas
 If pandas is not working fine.  Install the python for VSCode to resolve the issue.
 
+``python src\get_data.py
 
-
+it reads params.yaml file
 
 
 
