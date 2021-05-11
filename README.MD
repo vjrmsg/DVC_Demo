@@ -90,8 +90,18 @@ C:\Work_Imp\DataScience\MLOPS>git config --global http.sslVerify false
 
 C:\Work_Imp\DataScience\MLOPS>git push origin main
 
-* Changes to be updated
+*Create params file and update
+``git add . && git commit -m "Params.yaml file  updated"
+Push the changes to the GitHub.
+``git push origin main
 
+Create get_data
+
+(MLOPS) C:\Work_Imp\DataScience\MLOPS\src>copy con get_data.py
+^Z
+        1 file(s) copied.
+pip  install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --upgrade pandas
+If pandas is not working fine.  Install the python for VSCode to resolve the issue.
 
 
 
