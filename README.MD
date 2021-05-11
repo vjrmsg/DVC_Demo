@@ -68,6 +68,34 @@ Add winequality.csv file and run git init command.
 
 ``git commit -m "first commit" 
 
+git add . && git commit -m "update Readme.md"
+
+Adding a Remote repository..
+
+``create the new repository 
+
+git remote add origin https://github.com/vjrmsg/DVC_Demo.git
+
+in case, if the github is showing that master branch instead main.. we have to change it to main with below command.
+
+``git branch -M main
+
+-- Now push the origin to main.
+
+``git push -u origin main
+
+-- if above push not worked, follow below steps.
+
+C:\Work_Imp\DataScience\MLOPS>git config --global http.sslVerify false
+
+C:\Work_Imp\DataScience\MLOPS>git push origin main
+
+* Changes to be updated
+
+
+
+
+
 
 
 
