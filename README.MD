@@ -111,6 +111,11 @@ it reads params.yaml file
 ^Z
         1 file(s) copied.
 
+``python src\load_data.py
+
+checks from logs file and do the same process.  Any changes happen, enter process 
+
+
 
 
 
