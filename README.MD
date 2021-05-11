@@ -107,6 +107,9 @@ If pandas is not working fine.  Install the python for VSCode to resolve the iss
 
 it reads params.yaml file
 
+``copy con src\load_data.py
+^Z
+        1 file(s) copied.
 
 
 
