@@ -60,6 +60,17 @@ Add winequality.csv file and run git init command.
 
 `` dvc add data_given/winequality.csv
 
+``C:\Work_Imp\DataScience\MLOPS>dvc add data_given\winequality.csv
+
+''git add . 
+--will add all the files to the staging
+-- after adding the files do the commit with a message
+
+``git commit -m "first commit" 
+
+
+
+
 
 
 
