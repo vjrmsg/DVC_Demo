@@ -115,6 +115,15 @@ it reads params.yaml file
 
 checks from logs file and do the same process.  Any changes happen, enter process 
 
+(MLOPS) C:\Work_Imp\DataScience\MLOPS>dvc repro
+ERROR: failed to reproduce 'data_given\winequality.csv.dvc': DLL load failed while importing win32file: The specified module could not be found.
+
+(MLOPS) C:\Work_Imp\DataScience\MLOPS>conda install pywin32
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+
+
 
 
 
