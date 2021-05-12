@@ -122,6 +122,19 @@ ERROR: failed to reproduce 'data_given\winequality.csv.dvc': DLL load failed whi
 Collecting package metadata (current_repodata.json): done
 Solving environment: done
 
+``pytest -v
+
+``tox
+
+
+
+setup commiands
+`` pip install -e .
+``pip freeze
+
+Build your own package commands
+
+````python setup.py sdist bdist_wheel
 
 
 
