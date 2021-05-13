@@ -137,7 +137,7 @@ Build your own package commands
 ````python setup.py sdist bdist_wheel
 
 
-
+``git add . && git commit -m "All updates" && git push origin main
 
 
 
