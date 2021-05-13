@@ -139,6 +139,8 @@ Build your own package commands
 
 ``git add . && git commit -m "All updates" && git push origin main
 
+*** Heroku installation not needed
+
 
 
 
